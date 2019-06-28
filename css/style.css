@@ -1,4 +1,11 @@
-@import url("https://db.onlinewebfonts.com/c/5c8036fec9d614a90b202dbe1c3b8395?family=Stick-A-RoundW00-Stick-A-Round");
+@font-face {font-family: "Stick-A-RoundW00-Stick-A-Round";
+    src: url("https://db.onlinewebfonts.com/t/5c8036fec9d614a90b202dbe1c3b8395.eot");
+    src: url("https://db.onlinewebfonts.com/t/5c8036fec9d614a90b202dbe1c3b8395.eot?#iefix") format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/5c8036fec9d614a90b202dbe1c3b8395.woff2") format("woff2"),
+    url("https://db.onlinewebfonts.com/t/5c8036fec9d614a90b202dbe1c3b8395.woff") format("woff"),
+    url("https://db.onlinewebfonts.com/t/5c8036fec9d614a90b202dbe1c3b8395.ttf") format("truetype"),
+    url("https://db.onlinewebfonts.com/t/5c8036fec9d614a90b202dbe1c3b8395.svg#Stick-A-RoundW00-Stick-A-Round") format("svg");
+}
 
 
 html {
